@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This document provides a comprehensive guide on how to build, manage, and maintain the [Your Project Name] using only GitHub. It covers every stage of the project lifecycle, from planning and coding to documentation and deployment.
+This document provides a comprehensive guide on how to build, manage, and maintain the githublone using only GitHub. It covers every stage of the project lifecycle, from planning and coding to documentation and deployment.
 
 ---
 
@@ -55,7 +55,7 @@ This document provides a comprehensive guide on how to build, manage, and mainta
 - **Objective**: Implement a strategy for managing branches.
 - **Commands**:
   \```bash
-  git checkout -b [branch-name]  # Create and switch to a new branch
+  git checkout -b tree  # Create and switch to a new branch
   \```
 
 ### Committing Code
